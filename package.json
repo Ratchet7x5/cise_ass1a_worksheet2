@@ -4,8 +4,8 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon backend/server.js"
+    "test": "react-scripts test",
+    "start": "react-scripts start"
   },
   "author": "Tarun Ramachandran",
   "license": "ISC",
