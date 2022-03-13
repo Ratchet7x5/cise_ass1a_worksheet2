@@ -4,10 +4,8 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
-    "eject": "npm eject"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server.js"
   },
   "author": "Tarun Ramachandran",
   "license": "ISC",
